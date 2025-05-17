@@ -1,21 +1,32 @@
-# Hello, <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28"> my name is Temirkhan
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=90&duration=3000&lines=Hello!+👋;+My+name+is+Temirkhan" />
+</h2>
 
-## 🛠️ My stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+<div align="center">
+  <h3>🛠️ My stack:</h3>
+  <img style="margin:5px;" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img style="margin:5px;" src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img style="margin:5px;" src="https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img style="margin:5px;" src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img style="margin:5px;" src="https://img.shields.io/badge/ci--cd-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white" alt="CI/CD" />
+  <img style="margin:5px;" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img style="margin:5px;" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img style="margin:5px;" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img style="margin:5px;" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img style="margin:5px;" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img style="margin:5px;" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img style="margin:5px;" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+<img style="margin:5px;" src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 
+</div>
 
+<br><br>
 
-## 🏆 My statistics:
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=stemirkhan&show_icons=true&theme=radical" />
+<div align="center">
+    <img height="190px" src="https://github-readme-stats.vercel.app/api?username=stemirkhan&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
+    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stemirkhan&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
+</div>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stemirkhan&layout=donut&theme=radical" />
+<br>
+
+<img align="center" height="229px" width="100%" style="max-width:900px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stemirkhan&theme=dracula"/>
