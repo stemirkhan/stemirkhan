@@ -22,11 +22,4 @@
 
 <br><br>
 
-<div align="center">
-    <img height="190px" src="https://github-readme-stats.vercel.app/api?username=stemirkhan&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
-    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stemirkhan&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
-</div>
-
-<br>
-
 <img align="center" height="229px" width="100%" style="max-width:900px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stemirkhan&theme=dracula"/>
