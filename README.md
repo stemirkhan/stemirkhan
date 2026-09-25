@@ -3,6 +3,23 @@
 </h2>
 
 <div align="center">
+  <h3>📚 Publications</h3>
+
+  <p>
+    <a href="https://habr.com/ru/articles/1086180/">
+      <b>Jev и обычные LLM: сравниваем качество, скорость и стоимость</b>
+    </a>
+  </p>
+
+  <p>
+    Практический разбор с экспериментами, кодом и замерами.<br>
+    <a href="https://github.com/stemirkhan/jev-llm-benchmarks">
+      Код и данные эксперимента
+    </a>
+  </p>
+</div>
+
+<div align="center">
   <h3>🛠️ My stack:</h3>
   <img style="margin:5px;" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img style="margin:5px;" src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
