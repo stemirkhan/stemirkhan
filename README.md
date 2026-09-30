@@ -6,6 +6,16 @@
   <h3>📚 Publications</h3>
 
   <p>
+    <a href="https://habr.com/ru/articles/1087794/">
+      <b>Закрытый Jev против открытой Laya: сравниваем decision-модели в RAG-реранжировании</b>
+    </a><br>
+    Сравнение качества и скорости на трех наборах BEIR ·
+    <a href="https://github.com/stemirkhan/jev-laya-benchmarks">
+      код и данные
+    </a>
+  </p>
+
+  <p>
     <a href="https://habr.com/ru/articles/1086180/">
       <b>Jev и обычные LLM: сравниваем качество, скорость и стоимость</b>
     </a><br>
