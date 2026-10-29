@@ -6,6 +6,16 @@
   <h3>📚 Publications</h3>
 
   <p>
+    <a href="https://habr.com/ru/articles/1096976/">
+      <b>ReAct-агент изнутри. Модель, инструменты и управляющий цикл</b>
+    </a><br>
+    Схемы обмена с моделью и реализация агента на Python без фреймворков ·
+    <a href="https://github.com/stemirkhan/react-agent-demo">
+      код примера
+    </a>
+  </p>
+
+  <p>
     <a href="https://habr.com/ru/articles/1087794/">
       <b>Закрытый Jev против открытой Laya: сравниваем decision-модели в RAG-реранжировании</b>
     </a><br>
